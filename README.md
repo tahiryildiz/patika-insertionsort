@@ -15,8 +15,11 @@ Patika.dev Modul 2 - Proje 1 Insertion Sort
 Dizi içerisindeki elemanlara tek tek bakıp küçük olanı başa alıyor:
 
 [22,27,16,2,18,6]
+
 [2,27,16,22,18,6]
+
 [2,6,16,22,18,27]
+
 [2,6,16,18,22,27]
 
 ### 2- Big-O gösterimini yazınız.
